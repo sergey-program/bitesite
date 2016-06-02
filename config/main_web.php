@@ -4,6 +4,7 @@ $config = [
     'id' => 'basic',
     'basePath' => dirname(__DIR__),
     'bootstrap' => ['log'],
+    'language'=>'en_US',
     'components' => [
         'db' => require(__DIR__ . '/_db.php'),
         'request' => ['cookieValidationKey' => '6rPtT4qW2bCHD_atlly6BYCxfqfmdY3h'],
