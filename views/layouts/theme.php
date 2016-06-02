@@ -94,13 +94,6 @@ ThemeAsset::register($this);
      */
     ?>
 
-    <script>
-        $(window).load(function () {
-            $('.macbook-screen').html('<iframe width="640" height="360" src="http://www.youtube.com/embed/JuyB7NO0EYY?feature=player_detailpage&amp;wmode=transparent" frameborder="0" allowfullscreen></iframe>');
-            $('.macbook-screen').fitVids();
-        })
-    </script>
-
     <!--Style Switcher-->
     <div id="style-switcher">
         <div id="toggle-switcher"><i class="fa fa-cogs"></i></div>
@@ -121,6 +114,13 @@ ThemeAsset::register($this);
         </ul>
     </div><!--End Style Switcher-->
     <?php $this->endBody(); ?>
+
+    <script>
+        $(window).load(function () {
+            $('.macbook-screen').html('<iframe width="640" height="360" src="http://www.youtube.com/embed/JuyB7NO0EYY?feature=player_detailpage&amp;wmode=transparent" frameborder="0" allowfullscreen></iframe>');
+            $('.macbook-screen').fitVids();
+        })
+    </script>
     </body>
 
     </html>
