@@ -29,11 +29,14 @@ $config = [
             ],
         ],
 
-//        'urlManager' => [
-//            'enablePrettyUrl' => true,
-//            'showScriptName' => false,
-//            'rules' => []
-//        ]
+        'urlManager' => [
+            'enablePrettyUrl' => true,
+            'showScriptName' => false,
+            'rules' => [
+                '/<c>' => '/<c>/index',
+                '/<c>/<a>' => '/<c>/<a>'
+            ]
+        ]
     ],
     'params' => require(__DIR__ . '/_params.php')
 ];
