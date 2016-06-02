@@ -28,19 +28,19 @@
                     </div>
                     <div class="perspective-view">
                         <div class="single-image in-from-top-z fast">
-                            <img class="img-responsive" src="assets/slider/perspective/slide1-layer1.png" alt=""/>
+                            <img class="img-responsive" src="/theme/assets/slider/perspective/slide1-layer1.png" alt=""/>
                         </div>
                         <div class="single-image in-from-top-z fast delay1">
-                            <img class="img-responsive" src="assets/slider/perspective/slide1-layer2.png" alt=""/>
+                            <img class="img-responsive" src="/theme/assets/slider/perspective/slide1-layer2.png" alt=""/>
                         </div>
                         <div class="single-image in-from-top-z fast delay2">
-                            <img class="img-responsive" src="assets/slider/perspective/slide1-layer3.png" alt=""/>
+                            <img class="img-responsive" src="/theme/assets/slider/perspective/slide1-layer3.png" alt=""/>
                         </div>
                         <div class="single-image in-from-top-z fast delay3">
-                            <img class="img-responsive" src="assets/slider/perspective/slide1-layer4.png" alt=""/>
+                            <img class="img-responsive" src="/theme/assets/slider/perspective/slide1-layer4.png" alt=""/>
                         </div>
                         <div class="single-image in-from-top-z fast delay4">
-                            <img class="img-responsive" src="assets/slider/perspective/slide1-layer5.png" alt=""/>
+                            <img class="img-responsive" src="/theme/assets/slider/perspective/slide1-layer5.png" alt=""/>
                         </div>
                     </div>
                 </li>
@@ -51,25 +51,25 @@
                     </div>
                     <div class="perspective-view">
                         <div class="image-top in-from-top-z fast">
-                            <img class="img-responsive" src="assets/slider/perspective/slide2-layer1.png" alt=""/>
+                            <img class="img-responsive" src="/theme/assets/slider/perspective/slide2-layer1.png" alt=""/>
                         </div>
                         <div class="image-top in-from-top-z fast delay1">
-                            <img class="img-responsive" src="assets/slider/perspective/slide2-layer2.png" alt=""/>
+                            <img class="img-responsive" src="/theme/assets/slider/perspective/slide2-layer2.png" alt=""/>
                         </div>
                         <div class="image-top in-from-top-z fast delay2">
-                            <img class="img-responsive" src="assets/slider/perspective/slide2-layer3.png" alt=""/>
+                            <img class="img-responsive" src="/theme/assets/slider/perspective/slide2-layer3.png" alt=""/>
                         </div>
                         <div class="image-bottom in-from-top-z fast delay3">
-                            <img class="img-responsive" src="assets/slider/perspective/slide2-layer4.png" alt=""/>
+                            <img class="img-responsive" src="/theme/assets/slider/perspective/slide2-layer4.png" alt=""/>
                         </div>
                         <div class="image-bottom in-from-top-z slow delay4">
-                            <img class="img-responsive" src="assets/slider/perspective/slide2-layer5.png" alt=""/>
+                            <img class="img-responsive" src="/theme/assets/slider/perspective/slide2-layer5.png" alt=""/>
                         </div>
                         <div class="image-bottom in-from-top-z fast delay4">
-                            <img class="img-responsive" src="assets/slider/perspective/slide2-layer6.png" alt=""/>
+                            <img class="img-responsive" src="/theme/assets/slider/perspective/slide2-layer6.png" alt=""/>
                         </div>
                         <div class="image-bottom in-from-top-z fast delay5">
-                            <img class="img-responsive" src="assets/slider/perspective/slide2-layer7.png" alt=""/>
+                            <img class="img-responsive" src="/theme/assets/slider/perspective/slide2-layer7.png" alt=""/>
                         </div>
                     </div>
                 </li>
@@ -80,25 +80,25 @@
                     </div>
                     <div class="perspective-view">
                         <div class="image-right in-from-top-z fast delay1">
-                            <img class="img-responsive" src="assets/slider/perspective/slide3-layer1.png" alt=""/>
+                            <img class="img-responsive" src="/theme/assets/slider/perspective/slide3-layer1.png" alt=""/>
                         </div>
                         <div class="image-right in-from-top-z fast delay3">
-                            <img class="img-responsive" src="assets/slider/perspective/slide3-layer2.png" alt=""/>
+                            <img class="img-responsive" src="/theme/assets/slider/perspective/slide3-layer2.png" alt=""/>
                         </div>
                         <div class="image-right in-from-top-z fast delay4">
-                            <img class="img-responsive" src="assets/slider/perspective/slide3-layer3.png" alt=""/>
+                            <img class="img-responsive" src="/theme/assets/slider/perspective/slide3-layer3.png" alt=""/>
                         </div>
                         <div class="image-right in-from-top-z fast delay5">
-                            <img class="img-responsive" src="assets/slider/perspective/slide3-layer4.png" alt=""/>
+                            <img class="img-responsive" src="/theme/assets/slider/perspective/slide3-layer4.png" alt=""/>
                         </div>
                         <div class="image-left in-from-top-z fast">
-                            <img class="img-responsive" src="assets/slider/perspective/slide3-layer5.png" alt=""/>
+                            <img class="img-responsive" src="/theme/assets/slider/perspective/slide3-layer5.png" alt=""/>
                         </div>
                         <div class="image-left in-from-top-z fast delay2">
-                            <img class="img-responsive" src="assets/slider/perspective/slide3-layer6.png" alt=""/>
+                            <img class="img-responsive" src="/theme/assets/slider/perspective/slide3-layer6.png" alt=""/>
                         </div>
                         <div class="image-left in-from-top-z fast delay4">
-                            <img class="img-responsive" src="assets/slider/perspective/slide3-layer7.png" alt=""/>
+                            <img class="img-responsive" src="/theme/assets/slider/perspective/slide3-layer7.png" alt=""/>
                         </div>
                     </div>
                 </li>
@@ -262,16 +262,16 @@ CALL TO ACTION (IPHONES)
                 <div class="iphones-wrapper scrollimation">
 
                     <div class="iphone-portrait-frame">
-                        <img class="img-responsive" src="assets/iphone-portrait.png" alt=""/>
+                        <img class="img-responsive" src="/theme/assets/iphone-portrait.png" alt=""/>
                         <div class="iphone-portrait-screen">
-                            <img class="img-responsive" src="assets/iphone-portrait-screen-2.jpg" alt=""/>
+                            <img class="img-responsive" src="/theme/assets/iphone-portrait-screen-2.jpg" alt=""/>
                         </div>
                     </div>
 
                     <div class="iphone-landscape-frame">
-                        <img class="img-responsive" src="assets/iphone-landscape.png" alt=""/>
+                        <img class="img-responsive" src="/theme/assets/iphone-landscape.png" alt=""/>
                         <div class="iphone-landscape-screen">
-                            <img class="img-responsive" src="assets/iphone-landscape-screen-2.jpg" alt=""/>
+                            <img class="img-responsive" src="/theme/assets/iphone-landscape-screen-2.jpg" alt=""/>
                         </div>
                     </div>
                 </div>
@@ -393,19 +393,19 @@ FEATURED PROJECTS
 
         <div class="ipad-frame scrollimation fade-up">
 
-            <img class="img-responsive img-center" src="assets/ipad-landscape.png" alt=""/>
+            <img class="img-responsive img-center" src="/theme/assets/ipad-landscape.png" alt=""/>
 
             <div class="ipad-screen ipad-slider flexslider">
 
                 <ul class="slides">
                     <li>
-                        <img class="img-responsive" src="assets/Bills.jpg" alt=""/>
+                        <img class="img-responsive" src="/theme/assets/Bills.jpg" alt=""/>
                     </li>
                     <li>
-                        <img class="img-responsive" src="assets/Holiday.jpg" alt=""/>
+                        <img class="img-responsive" src="/theme/assets/Holiday.jpg" alt=""/>
                     </li>
                     <li>
-                        <img class="img-responsive" src="assets/Augmented_Tourist.jpg" alt=""/>
+                        <img class="img-responsive" src="/theme/assets/Augmented_Tourist.jpg" alt=""/>
                     </li>
                 </ul>
 
@@ -431,7 +431,7 @@ TEAM
 
             <div class="col-sm-3 col-sm-offset-1 member-thumb scrollimation fade-right">
 
-                <img class="img-responsive img-center" src="assets/member1.jpg" alt=""/>
+                <img class="img-responsive img-center" src="/theme/assets/member1.jpg" alt=""/>
                 <h4>John Doe</h4>
                 <p class="title">Lead Designer &amp; Founder</p>
 
@@ -456,7 +456,7 @@ TEAM
 
             <div class="col-sm-3 col-sm-push-8 member-thumb scrollimation fade-left">
 
-                <img class="img-responsive img-center" src="assets/member2.jpg" alt=""/>
+                <img class="img-responsive img-center" src="/theme/assets/member2.jpg" alt=""/>
                 <h4>Jane Doe</h4>
                 <p class="title">Designer</p>
 
@@ -481,7 +481,7 @@ TEAM
 
             <div class="col-sm-3 col-sm-offset-1 member-thumb scrollimation fade-right">
 
-                <img class="img-responsive img-center" src="assets/member3.jpg" alt=""/>
+                <img class="img-responsive img-center" src="/theme/assets/member3.jpg" alt=""/>
                 <h4>Richard Roe</h4>
                 <p class="title">Lead Developer</p>
 
@@ -583,24 +583,24 @@ PORTFOLIO
 
                     <div class="project-thumb">
                         <a href="#" class="main-link">
-                            <img class="img-responsive img-center" src="assets/projects/Bills_thumb.jpg" alt=""/>
+                            <img class="img-responsive img-center" src="/theme/assets/projects/Bills_thumb.jpg" alt=""/>
                             <h2 class="project-title">Billing</h2>
                             <span class="overlay-mask"></span>
                         </a>
-                        <a class="enlarge" href="assets/projects/Bills_Bills_Bills_Bigger.jpg" title="Bills Project"><i class="fa fa-expand fa-fw"></i></a>
+                        <a class="enlarge" href="/theme/assets/projects/Bills_Bills_Bills_Bigger.jpg" title="Bills Project"><i class="fa fa-expand fa-fw"></i></a>
                         <a class="link" href="#"><i class="fa fa-eye fa-fw"></i></a>
                     </div><!-- End Thumbnail -->
 
                     <!--==== Project Preview Content ====-->
 
-                    <div class="preview-content" data-images="assets/projects/Bills_slide1.jpg,assets/projects/Bills_slide2.jpg,assets/projects/Bills_slide3.jpg">
+                    <div class="preview-content" data-images="/theme/assets/projects/Bills_slide1.jpg,/theme/assets/projects/Bills_slide2.jpg,/theme/assets/projects/Bills_slide3.jpg">
 
                         <p class="preview-subtitle">A project about bills</p>
 
                         <p>Lorem ipsum dolor sit amet, <a href="">consectetur</a> adipiscing elit. Donec ac odio sed enim bibendum luctus. Morbi consectetur augue nec erat congue accumsan. Pellentesque ac tempor ipsum. Fusce in nisl
                             adipiscing, luctus ipsum in, dictum mi. </p>
 
-                        <a href="#link" target="_blank" title="Visit Website"><img class="img-responsive img-center" src="assets/projects/microsoft-logo.png" alt=""/></a>
+                        <a href="#link" target="_blank" title="Visit Website"><img class="img-responsive img-center" src="/theme/assets/projects/microsoft-logo.png" alt=""/></a>
 
                         <p>Morbi et gravida tellus, quis malesuada odio. Quisque facilisis cursus mi condimentum lobortis. Maecenas eros erat, varius et felis at, pretium aliquam ante. </p>
                         <p>Pellentesque dictum vulputate ornare. In hac habitasse platea dictumst. Proin pellentesque viverra tortor sit amet feugiat. Etiam varius neque quam, a tincidunt odio congue quis. Sed nec est leo. Curabitur nec
@@ -619,14 +619,14 @@ PORTFOLIO
 
                     <div class="project-thumb">
                         <a href="#" class="main-link">
-                            <img class="img-responsive img-center" src="assets/projects/Augmented_Tourist_thumb.jpg" alt=""/>
+                            <img class="img-responsive img-center" src="/theme/assets/projects/Augmented_Tourist_thumb.jpg" alt=""/>
                             <h2 class="project-title">Augmented Tourist</h2>
                             <span class="overlay-mask"></span>
                         </a>
                         <a class="link centered" href=""><i class="fa fa-eye fa-fw"></i></a>
                     </div>
 
-                    <div class="preview-content" data-images="assets/projects/Augmented_Tourist_slide1.jpg,assets/projects/Augmented_Tourist_slide2.jpg,assets/projects/Augmented_Tourist_slide3.jpg">
+                    <div class="preview-content" data-images="/theme/assets/projects/Augmented_Tourist_slide1.jpg,/theme/assets/projects/Augmented_Tourist_slide2.jpg,/theme/assets/projects/Augmented_Tourist_slide3.jpg">
 
 
                         <p>Second Title ipsum dolor sit amet, <a href="">consectetur</a> adipiscing elit. Donec ac odio sed enim bibendum luctus. Morbi consectetur augue nec erat congue accumsan. Pellentesque ac tempor ipsum. Fusce in
@@ -646,11 +646,11 @@ PORTFOLIO
 
                     <div class="project-thumb">
                         <a href="#" class="main-link">
-                            <img class="img-responsive img-center" src="assets/projects/Get-Colored-Site_thumb.jpg" alt=""/>
+                            <img class="img-responsive img-center" src="/theme/assets/projects/Get-Colored-Site_thumb.jpg" alt=""/>
                             <h2 class="project-title">Get Colored</h2>
                             <span class="overlay-mask"></span>
                         </a>
-                        <a class="enlarge centered" href="assets/projects/Get-Colored-Site-Bigger.jpg" title="Get Colored"><i class="fa fa-expand fa-fw"></i></a>
+                        <a class="enlarge centered" href="/theme/assets/projects/Get-Colored-Site-Bigger.jpg" title="Get Colored"><i class="fa fa-expand fa-fw"></i></a>
                     </div><!-- End Thumbnail -->
 
                     <div class="preview-content">
@@ -660,7 +660,7 @@ PORTFOLIO
                         <p>Lorem ipsum dolor sit amet, <a href="">consectetur</a> adipiscing elit. Donec ac odio sed enim bibendum luctus. Morbi consectetur augue nec erat congue accumsan. Pellentesque ac tempor ipsum. Fusce in nisl
                             adipiscing, luctus ipsum in, dictum mi. </p>
 
-                        <a href="#link" target="_blank" title="Visit Website"><img class="img-responsive img-center" src="assets/projects/microsoft-logo.png" alt=""/></a>
+                        <a href="#link" target="_blank" title="Visit Website"><img class="img-responsive img-center" src="/theme/assets/projects/microsoft-logo.png" alt=""/></a>
 
                         <p>Morbi et gravida tellus, quis malesuada odio. Quisque facilisis cursus mi condimentum lobortis. Maecenas eros erat, varius et felis at, pretium aliquam ante. </p>
                         <p>Pellentesque dictum vulputate ornare. In hac habitasse platea dictumst. Proin pellentesque viverra tortor sit amet feugiat. Etiam varius neque quam, a tincidunt odio congue quis. Sed nec est leo. Curabitur nec
@@ -675,11 +675,11 @@ PORTFOLIO
                 <article class="col-md-4 col-sm-6 project-item apps">
                     <div class="project-thumb">
                         <a href="#" class="main-link">
-                            <img class="img-responsive img-center" src="assets/projects/Holiday_thumb.jpg" alt=""/>
+                            <img class="img-responsive img-center" src="/theme/assets/projects/Holiday_thumb.jpg" alt=""/>
                             <h2 class="project-title">Holiday Selector</h2>
                             <span class="overlay-mask"></span>
                         </a>
-                        <a class="enlarge" href="assets/projects/Holiday_Selector_Bigger.jpg" title="Holiday Selector"><i class="fa fa-expand fa-fw"></i></a>
+                        <a class="enlarge" href="/theme/assets/projects/Holiday_Selector_Bigger.jpg" title="Holiday Selector"><i class="fa fa-expand fa-fw"></i></a>
                         <a class="link" href="#"><i class="fa fa-eye fa-fw"></i></a>
                     </div>
                     <div class="preview-content">
@@ -689,7 +689,7 @@ PORTFOLIO
                         <p>Second Title ipsum dolor sit amet, <a href="">consectetur</a> adipiscing elit. Donec ac odio sed enim bibendum luctus. Morbi consectetur augue nec erat congue accumsan. Pellentesque ac tempor ipsum. Fusce in
                             nisl
                             adipiscing, luctus ipsum in, dictum mi. </p>
-                        <a href="#link" target="_blank" title="Visit Website"><img class="img-responsive img-center" src="assets/projects/microsoft-logo.png" alt=""/></a>
+                        <a href="#link" target="_blank" title="Visit Website"><img class="img-responsive img-center" src="/theme/assets/projects/microsoft-logo.png" alt=""/></a>
                         <p>Morbi et gravida tellus, quis malesuada odio. Quisque facilisis cursus mi condimentum lobortis. Maecenas eros erat, varius et felis at, pretium aliquam ante. </p>
                         <p>Pellentesque dictum vulputate ornare. In hac habitasse platea dictumst. Proin pellentesque viverra tortor sit amet feugiat. Etiam varius neque quam, a tincidunt odio congue quis. Sed nec est leo. Curabitur nec
                             eleifend magna. Nunc blandit laoreet ornare.</p>
@@ -703,15 +703,15 @@ PORTFOLIO
 
                     <div class="project-thumb">
                         <a href="#" class="main-link">
-                            <img class="img-responsive img-center" src="assets/projects/Scavenger_Hunt_thumb.jpg" alt=""/>
+                            <img class="img-responsive img-center" src="/theme/assets/projects/Scavenger_Hunt_thumb.jpg" alt=""/>
                             <h2 class="project-title">Scavenger Hunt</h2>
                             <span class="overlay-mask"></span>
                         </a>
-                        <a class="enlarge" href="assets/projects/Scavenger_Hunt_Bigger.jpg" title="Scavenger Hunt"><i class="fa fa-expand fa-fw"></i></a>
+                        <a class="enlarge" href="/theme/assets/projects/Scavenger_Hunt_Bigger.jpg" title="Scavenger Hunt"><i class="fa fa-expand fa-fw"></i></a>
                         <a class="link" href="#"><i class="fa fa-eye fa-fw"></i></a>
                     </div>
 
-                    <div class="preview-content" data-images="assets/projects/Scavenger_Hunt_slide1.jpg,assets/projects/Scavenger_Hunt_slide2.jpg">
+                    <div class="preview-content" data-images="/theme/assets/projects/Scavenger_Hunt_slide1.jpg,/theme/assets/projects/Scavenger_Hunt_slide2.jpg">
 
 
                         <p>Second Title ipsum dolor sit amet, <a href="">consectetur</a> adipiscing elit. Donec ac odio sed enim bibendum luctus. Morbi consectetur augue nec erat congue accumsan. Pellentesque ac tempor ipsum. Fusce in
@@ -730,14 +730,14 @@ PORTFOLIO
                 <article class="col-md-4 col-sm-6 project-item web-design apps">
                     <div class="project-thumb">
                         <a href="#" class="main-link">
-                            <img class="img-responsive img-center" src="assets/projects/Sonor_thumb.jpg" alt=""/>
+                            <img class="img-responsive img-center" src="/theme/assets/projects/Sonor_thumb.jpg" alt=""/>
                             <h2 class="project-title">Sonor</h2>
                             <span class="overlay-mask"></span>
                         </a>
-                        <a class="enlarge" href="assets/projects/Sonor-bigger.jpg" title="Sonor"><i class="fa fa-expand fa-fw"></i></a>
+                        <a class="enlarge" href="/theme/assets/projects/Sonor-bigger.jpg" title="Sonor"><i class="fa fa-expand fa-fw"></i></a>
                         <a class="link" href="#"><i class="fa fa-eye fa-fw"></i></a>
                     </div>
-                    <div class="preview-content" data-images="assets/projects/Sonor_slide1.jpg,assets/projects/Sonor_slide2.jpg">
+                    <div class="preview-content" data-images="/theme/assets/projects/Sonor_slide1.jpg,/theme/assets/projects/Sonor_slide2.jpg">
 
                         <p class="preview-subtitle">Listen to the music of Sonor!</p>
 
@@ -778,7 +778,7 @@ PORTFOLIO
 
             <div class="imac-frame">
 
-                <img class="img-responsive img-center" src="assets/imac.png" alt=""/>
+                <img class="img-responsive img-center" src="/theme/assets/imac.png" alt=""/>
                 <span class="loader"></span>
                 <div class="imac-screen imac-slider flexslider"></div>
 
@@ -815,7 +815,7 @@ RESPONSIVE VIDEO
 
                 <div class="macbook-frame">
 
-                    <img class="img-responsive img-center" src="assets/macbook.png" alt=""/>
+                    <img class="img-responsive img-center" src="/theme/assets/macbook.png" alt=""/>
 
                     <div class="macbook-screen">
 
@@ -938,7 +938,7 @@ NEWS
                         <h2 class="news-title">A Bicycle Ride</h2>
 
                         <div class="news-media">
-                            <a class="colorbox" href="assets/blog/bicycle_ride.jpg"><img class="img-responsive" src="assets/blog/bicycle_ride_thumb.jpg" alt=""/></a>
+                            <a class="colorbox" href="/theme/assets/blog/bicycle_ride.jpg"><img class="img-responsive" src="/theme/assets/blog/bicycle_ride_thumb.jpg" alt=""/></a>
                         </div>
 
                         <p>No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure&hellip;</p>
@@ -960,8 +960,8 @@ NEWS
                         <h2 class="news-title">On the Mountains</h2>
 
                         <div class="news-media gallery">
-                            <a class="colorbox" href="assets/blog/on_the_mountains.jpg"><img class="img-responsive" src="assets/blog/on_the_mountains_thumb.jpg" alt=""/></a>
-                            <a class="colorbox" href="assets/blog/on_the_mountains_2.jpg"></a>
+                            <a class="colorbox" href="/theme/assets/blog/on_the_mountains.jpg"><img class="img-responsive" src="/theme/assets/blog/on_the_mountains_thumb.jpg" alt=""/></a>
+                            <a class="colorbox" href="/theme/assets/blog/on_the_mountains_2.jpg"></a>
                         </div>
 
                         <p>But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure&hellip;</p>
@@ -987,7 +987,7 @@ NEWS
                         <h2 class="news-title">Travelling - Music Video</h2>
 
                         <div class="news-media video">
-                            <a class="colorbox-video" href="http://www.youtube.com/embed/JMK86SdYBpE?feature=player_detailpage&amp;wmode=transparent"><img class="img-responsive" src="assets/blog/travelling_thumb.jpg" alt=""/></a>
+                            <a class="colorbox-video" href="http://www.youtube.com/embed/JMK86SdYBpE?feature=player_detailpage&amp;wmode=transparent"><img class="img-responsive" src="/theme/assets/blog/travelling_thumb.jpg" alt=""/></a>
                         </div>
 
                         <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized&hellip;</p>
@@ -1009,8 +1009,8 @@ NEWS
                         <h2 class="news-title">Following the Train</h2>
 
                         <div class="news-media gallery">
-                            <a class="colorbox" href="assets/blog/train_rails.jpg"><img class="img-responsive" src="assets/blog/train_rails_thumb.jpg" alt=""/></a>
-                            <a class="colorbox" href="assets/blog/train_station.jpg"></a>
+                            <a class="colorbox" href="/theme/assets/blog/train_rails.jpg"><img class="img-responsive" src="/theme/assets/blog/train_rails_thumb.jpg" alt=""/></a>
+                            <a class="colorbox" href="/theme/assets/blog/train_station.jpg"></a>
                         </div>
 
                         <p>The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains&hellip;</p>
@@ -1040,7 +1040,7 @@ NEWS
                         <h2 class="news-title">Advanced Photoshoot Techniques</h2>
 
                         <div class="news-media video">
-                            <a class="colorbox-video" href="http://www.youtube.com/embed/T4ZX2ElqzGE?feature=player_detailpage&amp;wmode=transparent"><img class="img-responsive" src="assets/blog/techniques_thumb.jpg" alt=""/></a>
+                            <a class="colorbox-video" href="http://www.youtube.com/embed/T4ZX2ElqzGE?feature=player_detailpage&amp;wmode=transparent"><img class="img-responsive" src="/theme/assets/blog/techniques_thumb.jpg" alt=""/></a>
                         </div>
 
                         <p>But who has any right to find fault with a man who chooses to enjoy a pleasure&hellip;</p>
@@ -1114,7 +1114,7 @@ CLIENTS
             <div class="col-sm-6 col-md-3">
 
                 <div class="client scrollimation fade-up">
-                    <a href="#link" target="_blank"><img class="img-responsive img-center" src="assets/neos-logo.png" alt=""/></a>
+                    <a href="#link" target="_blank"><img class="img-responsive img-center" src="/theme/assets/neos-logo.png" alt=""/></a>
                 </div>
 
             </div>
@@ -1122,7 +1122,7 @@ CLIENTS
             <div class="col-sm-6 col-md-3">
 
                 <div class="client scrollimation fade-up d1">
-                    <a href="#link" target="_blank"><img class="img-responsive img-center" src="assets/microsoft-logo.jpg" alt=""/></a>
+                    <a href="#link" target="_blank"><img class="img-responsive img-center" src="/theme/assets/microsoft-logo.jpg" alt=""/></a>
                 </div>
 
             </div>
@@ -1130,7 +1130,7 @@ CLIENTS
             <div class="col-sm-6 col-md-3">
 
                 <div class="client scrollimation fade-up d2">
-                    <a href="#link" target="_blank"><img class="img-responsive img-center" src="assets/msn-logo.jpg" alt=""/></a>
+                    <a href="#link" target="_blank"><img class="img-responsive img-center" src="/theme/assets/msn-logo.jpg" alt=""/></a>
                 </div>
 
             </div>
@@ -1138,7 +1138,7 @@ CLIENTS
             <div class="col-sm-6 col-md-3">
 
                 <div class="client scrollimation fade-up d3">
-                    <a href="#link" target="_blank"><img class="img-responsive img-center" src="assets/dribbble-logo.jpg" alt=""/></a>
+                    <a href="#link" target="_blank"><img class="img-responsive img-center" src="/theme/assets/dribbble-logo.jpg" alt=""/></a>
                 </div>
 
             </div>
@@ -1147,7 +1147,7 @@ CLIENTS
             <div class="col-sm-6 col-md-3">
 
                 <div class="client scrollimation fade-up d4">
-                    <a href="#link" target="_blank"><img class="img-responsive img-center" src="assets/msn-logo.jpg" alt=""/></a>
+                    <a href="#link" target="_blank"><img class="img-responsive img-center" src="/theme/assets/msn-logo.jpg" alt=""/></a>
                 </div>
 
             </div>
@@ -1155,7 +1155,7 @@ CLIENTS
             <div class="col-sm-6 col-md-3">
 
                 <div class="client scrollimation fade-up d3">
-                    <a href="#link" target="_blank"><img class="img-responsive img-center" src="assets/dribbble-logo.jpg" alt=""/></a>
+                    <a href="#link" target="_blank"><img class="img-responsive img-center" src="/theme/assets/dribbble-logo.jpg" alt=""/></a>
                 </div>
 
             </div>
@@ -1163,7 +1163,7 @@ CLIENTS
             <div class="col-sm-6 col-md-3">
 
                 <div class="client scrollimation fade-up d2">
-                    <a href="#link" target="_blank"><img class="img-responsive img-center" src="assets/neos-logo.png" alt=""/></a>
+                    <a href="#link" target="_blank"><img class="img-responsive img-center" src="/theme/assets/neos-logo.png" alt=""/></a>
                 </div>
 
             </div>
@@ -1171,7 +1171,7 @@ CLIENTS
             <div class="col-sm-6 col-md-3">
 
                 <div class="client scrollimation fade-up d1">
-                    <a href="#link" target="_blank"><img class="img-responsive img-center" src="assets/microsoft-logo.jpg" alt=""/></a>
+                    <a href="#link" target="_blank"><img class="img-responsive img-center" src="/theme/assets/microsoft-logo.jpg" alt=""/></a>
                 </div>
 
             </div>

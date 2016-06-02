@@ -43,6 +43,7 @@ AppAsset::register($this);
     echo Nav::widget([
         'options' => ['class' => 'navbar-nav navbar-right'],
         'items' => [
+            ['label' => 'Design layout', 'url' => ['/design/index']],
             ['label' => 'Dropdown', 'url' => ['/menu/index']],
             ['label' => 'Scraper', 'url' => ['/scraper/index']],
             ['label' => 'Home', 'url' => ['/site/index']],

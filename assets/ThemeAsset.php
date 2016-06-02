@@ -26,7 +26,7 @@ class ThemeAsset extends AssetBundle
     ];
 
     public $js = [
-        'http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js',
+        'jquery-1.8.2.min.js',
         'respond.min.js',
         'modernizr.min.js',
         'bootstrap.min.js',
@@ -42,13 +42,13 @@ class ThemeAsset extends AssetBundle
         'jquery.colorbox-min.js',
         'contact.js',
         'qubico.js',
-        'style-switcher.js',
-
+        'style-switcher.js'
     ];
+
     public $jsOptions = [
-        'position' => View::POS_HEAD
+        'position' => View::POS_END
     ];
-
+// we use theme jquery, but can use yii2 native library
 //    public $depends = [
 //        'yii\web\JqueryAsset'
 //    ];

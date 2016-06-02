@@ -16,7 +16,7 @@
 
             <!-- ======= LOGO ========-->
             <a class="navbar-brand scrollto" href="#home">
-                <span class="logo-small"><img src="assets/logo-small-cyan.png" alt=""/></span>
+                <span class="logo-small"><img src="theme/assets/logo-small-cyan.png" alt=""/></span>
                 <span class="to-top"><i class="fa fa-arrow-up"></i></span>
 
                 Qubico

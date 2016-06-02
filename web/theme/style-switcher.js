@@ -1,9 +1,9 @@
 $(document).ready(function(){
 
 	var slidersHTML = '<h1>Choose Slider</h1>\
-		<a href="index.html"><p><img src="switcher_thumb1.png" alt="">Multilayer Slider</p></a>\
-		<a href="perspective-slider.html"><p><img src="switcher_thumb2.png" alt="">Perspective Slider</p></a>\
-		<a href="idevices-slider.html"><p><img src="switcher_thumb3.png" alt="">iDevices Slider</p></a>'
+		<a href="index.html"><p><img src="theme/switcher_thumb1.png" alt="">Multilayer Slider</p></a>\
+		<a href="perspective-slider.html"><p><img src="theme/switcher_thumb2.png" alt="">Perspective Slider</p></a>\
+		<a href="idevices-slider.html"><p><img src="theme/switcher_thumb3.png" alt="">iDevices Slider</p></a>'
 		
 	$(slidersHTML).insertAfter('#toggle-switcher');
 
@@ -24,7 +24,7 @@ $(document).ready(function(){
 		
 		$('link#theme').attr('href', 'css/qubico-'+$elem.attr('id')+'.css');
 		
-		$('.logo-small img').attr('src', 'assets/logo-small-'+$elem.attr('id')+'.png');
+		$('.logo-small img').attr('src', 'theme/assets/logo-small-'+$elem.attr('id')+'.png');
 		
 		$('link#theme').load(function(){
 			$('link#main').attr('href', 'css/qubico-'+$elem.attr('id')+'.css');

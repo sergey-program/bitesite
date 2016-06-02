@@ -71,12 +71,12 @@ ThemeAsset::register($this);
     <?= $content; ?>
 
     <?= $this->render('theme_footer'); ?>
-    <!-- ============================================== SCRIPTS =============================================== -->
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="js/libs/jquery-1.8.2.min.js">\x3C/script>')</script>
 
     <?php
-    /*
+    /**
+     * <!-- ============================================== SCRIPTS =============================================== -->
+     * <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+     * <script>window.jQuery || document.write('<script src="js/libs/jquery-1.8.2.min.js">\x3C/script>')</script>
      * <script src="js/libs/bootstrap.min.js"></script>
      * <script src='js/jquery.scrollto.js'></script>
      * <script src='js/jquery.easing.1.3.min.js'></script>
