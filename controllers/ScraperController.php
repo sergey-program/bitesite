@@ -17,20 +17,15 @@ class ScraperController extends AbstractController
      */
     public function actionIndex()
     {
-        return $this->render('index', ['content' => '']);
+        if (\Yii::$app->request->isPost) {
+            $scraper = new Scraper();
+            $html = $scraper->authenticate()->page(1);
+
+            Scraper::parse($html);
+
+            return $this->redirect(['estate/list']);
+        }
+
+        return $this->render('index');
     }
-
-    public function actionGo()
-    {
-        $scraper = new Scraper();
-        $html = $scraper->authenticate()->page(1);
-
-        Scraper::parse($html);
-
-        $content = '';
-
-        return $this->render('index', ['content' => $content]);
-    }
-
-
 }

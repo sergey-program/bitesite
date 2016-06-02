@@ -115,8 +115,6 @@ class Parser
             $model->maxLevel = $this->prepareValue($array[6]);
             $model->contact = $this->prepareValue($col3->nodeValue);
             $model->save();
-
-            echo '<hr/>';
         }
     }
 
