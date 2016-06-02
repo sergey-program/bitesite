@@ -14,13 +14,15 @@ use app\models\extend\AbstractActiveRecord;
  * @property string $description
  * @property string $address
  * @property string $district
- * @property string $source
  * @property int    $price
  * @property string $type
  * @property int    $rooms
  * @property int    $square
  * @property int    $level
  * @property int    $maxLevel
+ * @property string $contact
+ * @property string $images
+ *
  */
 class Estate extends AbstractActiveRecord
 {
@@ -39,7 +41,7 @@ class Estate extends AbstractActiveRecord
     {
         return [
             ['credential', 'required', 'on' => 'create_empty'],
-            [['description', 'address', 'district', 'source', 'price', 'type', 'rooms', 'square', 'level', 'maxLevel'], 'safe', 'on' => 'create_empty']
+            [['description', 'address', 'district', 'price', 'type', 'rooms', 'square', 'level', 'maxLevel', 'contact', 'images'], 'safe', 'on' => 'create_empty']
         ];
     }
 
@@ -52,6 +54,7 @@ class Estate extends AbstractActiveRecord
             'id' => 'ID',
             'credential' => 'ключ',
             'description' => 'описание'
+            // @todo add others
         ];
     }
 
